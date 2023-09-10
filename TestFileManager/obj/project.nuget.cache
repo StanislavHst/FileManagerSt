@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfKcXAN10wAD8VvBQvjYtdrCDCxLrV+mnXJ4OCCr1ptbwzWAQREd/ZgSXaS9MWV70QK8x13gyu5rc1/kiAK9Kw==",
+  "success": true,
+  "projectFilePath": "D:\\forRider\\FileManager\\TestFileManager\\TestFileManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stasi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
